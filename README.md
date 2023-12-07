@@ -14,6 +14,9 @@
 3. 커밋하기
 4. 푸시하기
 
+[영남이공대학교].(http://www.ync.ac.kr)
+
+![프로필 이미지](./크리스마스.png)
 
 
 **junbeom7474/junbeom7474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
